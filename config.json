@@ -1,19 +1,19 @@
 {
-    "ownerNumber": "62895330006855@s.whatsapp.net", 
-    "ownerName": "ZALL DEV'S", 
-    "botName": "NEOBOT V1",
-    "footer": "© UDIN | NEW", 
+    "ownerNumber": "6285607831410@s.whatsapp.net", 
+    "ownerName": "Rull", 
+    "botName": "ZennBot",
+    "footer": "© Rull | Zenn Bot", 
     "sessionName": "session", 
     "pathimg": "./media/logo.jpg", 
     "pathqris": "./media/qris.jpg",
-    "group": "https://chat.whatsapp.com/K5cTkWYjC285jHaPefAciM",
-    "yootube": "https://youtube.com/c/RisalTmy",
+    "group": "-",
+    "yootube": "https://youtube.com/c/OmRullBot",
      
-    "QrisAllPay": "https://instagram.com/zall.ajh?igshid=YmMyMTA2M2Y=",
-    "textBarisDonate1": "Dana : 0895-3300-06855",
-    "textBarisDonate2": "Ovo : No!",
-    "textBarisDonate3": "Gopay : 0895-3300-06855",
-    "textBarisDonate4": "Pulsa : 0895-3300-06855",
+    "QrisAllPay": "https://nekopoi.care",
+    "textBarisDonate1": "Dana : 085607831412",
+    "textBarisDonate2": "Ovo : Gaada!",
+    "textBarisDonate3": "Gopay : 085607831412",
+    "textBarisDonate4": "Pulsa : 085607831412",
   
     "ButtonTextMenu1": "Youtube",
     "ButtonTextMenu2": "Tiktok",
@@ -21,8 +21,8 @@
     "quickReplyButton4": "Donasi",
     "quickReplyButton5": "Dashboard",
   
-    "ButtonMenuLink1": "https://youtube.com/c/RisalTmy",
-    "ButtonMenuLink2": "https://www.tiktok.com/@zall.ajh?_t=8Ussvm2zM4v&_r=1",
+    "ButtonMenuLink1": "https://youtube.com/c/OmRullBot",
+    "ButtonMenuLink2": "https://www.tiktok.com",
     "displayTextMenu3": "rules",
     "displayTextMenu4": "donasi",
     "displayTextMenu5": "dashboard",
@@ -30,7 +30,7 @@
     "limitGame": 2559,
     "gamewaktu": 30,
     "sticker": {
-        "packname": "© SANTED",
-        "author": "BANG UDIN KERIS"
+        "packname": "© ZennBot",
+        "author": "By Zenn"
     }
 }
